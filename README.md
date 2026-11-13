@@ -15,7 +15,7 @@ My main direction is **rainbow matchings and extremal graph theory**. The active
 - Rainbow arithmetic progressions, vertex color-coding, and exact random-walk examples.
 - Source-checked literature notes, reproducible data, and automated checks.
 
-These are learning, reproduction, and finite computational projects developed with AI assistance. They are not claimed publications or new theorems. I’m working toward explaining and extending the mathematics independently. The linked pull request shows changes under review before they reach the default branch.
+These are learning, reproduction, and finite computational projects. They are not claimed publications or new theorems. The linked pull request shows changes under review before they reach the default branch.
 
 ### Other projects
 
