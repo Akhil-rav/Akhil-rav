@@ -2,26 +2,19 @@
 
 High school junior at **John P. Stevens High School**, interested in **combinatorics, discrete mathematics, and theoretical computer science**.
 
-I enjoy olympiad-style proofs and am developing a deeper background in graph theory through proofs, small exact computations, and careful reading.
+My current focus is rainbow matchings and extremal graph theory.
 
-### Featured project — Discrete Math Lab
+### Mathematical work
 
-[**Explore the lab**](https://github.com/Akhil-rav/discrete-math-lab) · [**Latest development and results**](https://github.com/Akhil-rav/discrete-math-lab/pull/1)
+[**Discrete Math Lab**](https://github.com/Akhil-rav/discrete-math-lab) — mathematical exposition, exact combinatorial searches, and reproducible algorithm experiments.
 
-My main direction is **rainbow matchings and extremal graph theory**. The active development branch includes:
+- [**Even cycles and two disjoint squares**](https://github.com/Akhil-rav/discrete-math-lab/blob/research/literature-and-reproducible-experiments/papers/cycle_extremizers.pdf): an elementary note on rainbow perfect matchings and extremal color partitions, with [LaTeX source](https://github.com/Akhil-rav/discrete-math-lab/blob/research/literature-and-reproducible-experiments/papers/cycle_extremizers.tex).
+- [**Sparse rainbow matchings**](https://github.com/Akhil-rav/discrete-math-lab/blob/research/literature-and-reproducible-experiments/projects/rainbow-matchings/report.md): exact searches on six bipartite hosts, with documented coverage and verifiable witnesses.
+- [**Extremal K₃,₃ colorings**](https://github.com/Akhil-rav/discrete-math-lab/blob/research/literature-and-reproducible-experiments/results/k33_classification.md): a finite classification into four symmetry classes.
 
-- An exact sparse-graph search, including a cube example covering 4,213,597 edge-color partitions through proved pruning and counting.
-- Classification of the 87 extremal K₃,₃ patterns into four symmetry classes.
-- Rainbow arithmetic progressions, vertex color-coding, and exact random-walk examples.
-- Source-checked literature notes, reproducible data, and automated checks.
-
-These are learning, reproduction, and finite computational projects. They are not claimed publications or new theorems. The linked pull request shows changes under review before they reach the default branch.
+The lab distinguishes elementary proofs, reproductions of published results, and finite computational observations. The linked additions are available in [PR #1](https://github.com/Akhil-rav/discrete-math-lab/pull/1).
 
 ### Other projects
 
 - **Problem Solving Academy** — mathematics education initiative
 - **NJSI Website** — web development project
-
-### Interests
-
-Extremal combinatorics · Graph theory · Algorithms · Discrete probability · Theoretical computer science
